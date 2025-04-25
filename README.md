@@ -1,4 +1,4 @@
-# Stock Market Trading Volume Analyis
+# Stock Market Analyis
 A Power BI project that visualizes stock market data for top companies using interactive and insightful visuals including candlestick charts, volume analysis, and key metrics cards.
 
 ## 🔍 Features
